@@ -9,7 +9,7 @@
     <classes>
       <class name="com.OpenCart.testCases.TC_LoginTestCase_001">
         <methods>
-          <include name="loginTest" invocation-numbers="1 2 3"/>
+          <include name="loginTest" invocation-numbers="0 1 2 3 4"/>
           <include name="setup"/>
           <include name="tearDown"/>
         </methods>

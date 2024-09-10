@@ -1,0 +1,7 @@
+com\OpenCart\testCases\BaseClass.class
+com\OpenCart\testCases\TC_LoginTestCase_001.class
+com\OpenCart\utilities\Reporting.class
+com\OpenCart\utilities\ReadConfig.class
+com\OpenCart\pageObjects\RegisterPage.class
+com\OpenCart\pageObjects\LoginPage.class
+com\OpenCart\utilities\XLUtils.class

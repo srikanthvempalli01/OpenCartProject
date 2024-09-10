@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 105.12 s <<< FAILURE! - in TestSuite
+com.OpenCart.testCases.TC_LoginTestCase_001.loginTest[naveen@gmail.com, Kri12845@](2)  Time elapsed: 16.379 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.OpenCart.testCases.TC_LoginTestCase_001.loginTest(TC_LoginTestCase_001.java:41)
+
+com.OpenCart.testCases.TC_LoginTestCase_001.loginTest[reddy@gmail.com, Lri19345@](3)  Time elapsed: 16.526 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.OpenCart.testCases.TC_LoginTestCase_001.loginTest(TC_LoginTestCase_001.java:41)
+
+com.OpenCart.testCases.TC_LoginTestCase_001.loginTest[srikanth@gmail.com, Hri12945@](4)  Time elapsed: 16.63 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.OpenCart.testCases.TC_LoginTestCase_001.loginTest(TC_LoginTestCase_001.java:41)
+

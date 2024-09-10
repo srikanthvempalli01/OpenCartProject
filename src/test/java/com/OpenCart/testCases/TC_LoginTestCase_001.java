@@ -15,8 +15,8 @@ public class TC_LoginTestCase_001 extends BaseClass
 	public void loginTest(String email,String password) throws InterruptedException
 	{
 		driver.get(baseURL);
-		logger.info("URL is opened");
-       
+		logger.info("URL is opened");  
+		Thread.sleep(5000);
 		LoginPage lp=new LoginPage(driver);
 		lp.enterEmail(email);
 		logger.info("entered email");
